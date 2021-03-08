@@ -1,412 +1,412 @@
 club,last_name,first_name,position,base_salary,guaranteed_compensation
-NY,Agudelo,Juan,F,40000.0,70000.0
-KC,Aiyegbusi,Olukorede,D,40000.0,40000.0
-COL,Akpan,Andre,F,40000.0,65000.0
-NY,Albright,Chris,D,84000.0,84000.0
-DAL,Alexander,Eric,M,40000.0,40000.0
-RSL,Alexandre,Jean,M,40000.0,40000.0
-DC,Allsopp,Danny,F,180000.0,217500.0
-SEA,Alonso,Osvaldo,M,67925.0,68737.5
-NE,Alston,Kevin,D,75000.0,124000.0
-SJ,Alvarez,Arturo,M-F,183338.0,192675.5
-COL,Amarikwa,Quincy,F,40000.0,40000.0
-NY,Angel,Juan Pablo,F,1620000.0,1918000.0
-HOU,Appiah,Samuel,M,40000.0,40000.0
-KC,Arnaud,Davy,M,220000.0,228750.0
-PHI,Arrieta,Christian,D,60000.0,64500.0
-HOU,Ashe,Corey,M,40000.0,40000.0
-TFC,Attakora-Gyan,Nana,D,40000.0,40000.0
-KC,Auvray,Stephane,M,140000.0,148125.0
-DAL,Avila,Eric,M,75000.0,108000.0
-COL,Ballouchy,Mehdi,M,88800.0,88800.0
-CHI,Banner,Michael,D,40000.0,40000.0
-DC,Barklage,Brandon,M-F,40000.0,40000.0
-NE,Barnes,Darrius,D,55000.0,56250.0
-TFC,Barrett,Chad,F,205000.0,212500.0
-CLB,Barros Schelotto,Guillermo,M-F,140000.0,241250.0
-COL,Baudet,Julien,D,168000.0,181750.0
-KC,Beasley,Jamar,M,40000.0,40000.0
-RSL,Beckerman,Kyle,M,250000.0,250000.0
-LA,Beckham,David,M,5500000.08,6500000.04
-SJ,Beitashour,Steven,D,40000.0,40000.0
-RSL,Beltran,Anthony,D,75000.0,110500.0
-DAL,Benitez,Jair,D,42000.0,63250.0
-LA,Berhalter,Gregg,D,180000.0,198750.0
-KC,Besler,Matt,D,50600.0,61850.0
-LA,Birchall,Chris,M,132000.0,145125.0
-NE,Boggs,Zak,F-M,40000.0,40000.0
-CHI,Bone,Corben,M,75000.0,136200.0
-RSL,Borchers,Nat,D,140000.0,147500.0
+New York Red Bulls,Agudelo,Juan,F,40000.0,70000.0
+Sporting Kansas City,Aiyegbusi,Olukorede,D,40000.0,40000.0
+Colorado Rapids,Akpan,Andre,F,40000.0,65000.0
+New York Red Bulls,Albright,Chris,D,84000.0,84000.0
+FC Dallas,Alexander,Eric,M,40000.0,40000.0
+Real Salt Lake,Alexandre,Jean,M,40000.0,40000.0
+DC United,Allsopp,Danny,F,180000.0,217500.0
+Seattle Sounders FC,Alonso,Osvaldo,M,67925.0,68737.5
+New England Revolution,Alston,Kevin,D,75000.0,124000.0
+San Jose Earthquakes,Alvarez,Arturo,M-F,183338.0,192675.5
+Colorado Rapids,Amarikwa,Quincy,F,40000.0,40000.0
+New York Red Bulls,Angel,Juan Pablo,F,1620000.0,1918000.0
+Houston Dynamo,Appiah,Samuel,M,40000.0,40000.0
+Sporting Kansas City,Arnaud,Davy,M,220000.0,228750.0
+Philadelphia Union,Arrieta,Christian,D,60000.0,64500.0
+Houston Dynamo,Ashe,Corey,M,40000.0,40000.0
+Toronto FC,Attakora-Gyan,Nana,D,40000.0,40000.0
+Sporting Kansas City,Auvray,Stephane,M,140000.0,148125.0
+FC Dallas,Avila,Eric,M,75000.0,108000.0
+Colorado Rapids,Ballouchy,Mehdi,M,88800.0,88800.0
+Chicago Fire,Banner,Michael,D,40000.0,40000.0
+DC United,Barklage,Brandon,M-F,40000.0,40000.0
+New England Revolution,Barnes,Darrius,D,55000.0,56250.0
+Toronto FC,Barrett,Chad,F,205000.0,212500.0
+Columbus Crew,Barros Schelotto,Guillermo,M-F,140000.0,241250.0
+Colorado Rapids,Baudet,Julien,D,168000.0,181750.0
+Sporting Kansas City,Beasley,Jamar,M,40000.0,40000.0
+Real Salt Lake,Beckerman,Kyle,M,250000.0,250000.0
+LA Galaxy,Beckham,David,M,5500000.08,6500000.04
+San Jose Earthquakes,Beitashour,Steven,D,40000.0,40000.0
+Real Salt Lake,Beltran,Anthony,D,75000.0,110500.0
+FC Dallas,Benitez,Jair,D,42000.0,63250.0
+LA Galaxy,Berhalter,Gregg,D,180000.0,198750.0
+Sporting Kansas City,Besler,Matt,D,50600.0,61850.0
+LA Galaxy,Birchall,Chris,M,132000.0,145125.0
+New England Revolution,Boggs,Zak,F-M,40000.0,40000.0
+Chicago Fire,Bone,Corben,M,75000.0,136200.0
+Real Salt Lake,Borchers,Nat,D,140000.0,147500.0
 CHV,Borja,Carlos,M,40000.0,40000.0
-NY,Borman,Danleigh,M,40000.0,40000.0
+New York Red Bulls,Borman,Danleigh,M,40000.0,40000.0
 CHV,Bornstein,Jonathan,D,100000.0,100000.0
-DC,Boskovic,Branko,M,380000.0,516200.0
-SEA,Boss,Terry,GK,40000.0,42500.0
-HOU,Boswell,Robert,D,190000.0,190000.0
-LA,Bowen,Tristan,F,70000.0,101363.63
-NY,Boyens,Andrew,D,57005.0,62005.0
+DC United,Boskovic,Branko,M,380000.0,516200.0
+Seattle Sounders FC,Boss,Terry,GK,40000.0,42500.0
+Houston Dynamo,Boswell,Robert,D,190000.0,190000.0
+LA Galaxy,Bowen,Tristan,F,70000.0,101363.63
+New York Red Bulls,Boyens,Andrew,D,57005.0,62005.0
 CHV,Braun,Justin,F,65000.0,67500.0
-CHI,Brown,C.J.,D,95760.0,100560.0
-CLB,Brunner,Eric,D,40000.0,40000.0
-LA,Buddle,Edson,F,178448.0,188448.0
-KC,Bunbury,Teal,F,65000.0,163000.0
-DC,Burch,Marc,D,79000.0,81500.0
-SJ,Burling,Bobby,D,40000.0,40000.0
-CLB,Burns,Kevin,M,40000.0,40000.0
-NE,Burpo,Preston,GK,70000.0,70000.0
-SJ,Busch,Jon,GK,84000.0,90800.0
-PHI,Califf,Daniel,D,250000.0,250000.0
-HOU,Cameron,Geoff,M,40000.0,40000.0
-RSL,Campos,Pablo,F,78750.0,83596.72
-TFC,Cann,Adrian,D,56592.0,65342.0
-SJ,Cannon,Joe,GK,190000.0,200256.25
-CHI,Carr,Calen,F,71250.0,75500.0
-PHI,Carreiro,Fred,M-F,250000.0,282000.0
-CLB,Carroll,Brian,M,140569.0,144319.0
-COL,Casey,Conor,F,350000.0,350000.0
-CHI,Castillo,Nery,M-F,1400004.0,1788060.5
-COL,Ceus,Steward,GK,40000.0,40000.0
-HOU,Chabala,Michael,M,40000.0,40000.0
-DAL,Chavez,Marvin,M,60000.0,70000.0
-KC,Chhetri,Sunil,F,100008.0,110008.0
+Chicago Fire,Brown,C.J.,D,95760.0,100560.0
+Columbus Crew,Brunner,Eric,D,40000.0,40000.0
+LA Galaxy,Buddle,Edson,F,178448.0,188448.0
+Sporting Kansas City,Bunbury,Teal,F,65000.0,163000.0
+DC United,Burch,Marc,D,79000.0,81500.0
+San Jose Earthquakes,Burling,Bobby,D,40000.0,40000.0
+Columbus Crew,Burns,Kevin,M,40000.0,40000.0
+New England Revolution,Burpo,Preston,GK,70000.0,70000.0
+San Jose Earthquakes,Busch,Jon,GK,84000.0,90800.0
+Philadelphia Union,Califf,Daniel,D,250000.0,250000.0
+Houston Dynamo,Cameron,Geoff,M,40000.0,40000.0
+Real Salt Lake,Campos,Pablo,F,78750.0,83596.72
+Toronto FC,Cann,Adrian,D,56592.0,65342.0
+San Jose Earthquakes,Cannon,Joe,GK,190000.0,200256.25
+Chicago Fire,Carr,Calen,F,71250.0,75500.0
+Philadelphia Union,Carreiro,Fred,M-F,250000.0,282000.0
+Columbus Crew,Carroll,Brian,M,140569.0,144319.0
+Colorado Rapids,Casey,Conor,F,350000.0,350000.0
+Chicago Fire,Castillo,Nery,M-F,1400004.0,1788060.5
+Colorado Rapids,Ceus,Steward,GK,40000.0,40000.0
+Houston Dynamo,Chabala,Michael,M,40000.0,40000.0
+FC Dallas,Chavez,Marvin,M,60000.0,70000.0
+Sporting Kansas City,Chhetri,Sunil,F,100008.0,110008.0
 CHV,Chijindu,Chukwudi,M,40000.0,40000.0
-HOU,Ching,Brian,F,350000.0,350000.0
-NY,Chinn,Conor,F,40000.0,40000.0
-NY,Chirgadze,Giorgi,F,40000.0,40000.0
-COL,Clark,Colin,M,89250.0,94250.0
-HOU,Cochrane,Ryan,D,100000.0,100000.0
-NE,Colaluca,Nico,M,100000.0,133000.0
-CHI,Conde,Wilman,D,180000.0,200000.0
-KC,Conrad,Jimmy,D,232750.0,244000.0
-SJ,Convey,Bobby,M,285000.0,307500.0
-TFC,Conway,Jon,GK,60000.0,69833.33
-SJ,Corrales,Ramiro,M,150000.0,160625.0
-PHI,Coudet,Eduardo,M,180000.0,185000.0
-NY,Coundoul,Bouna,GK,155000.0,156250.0
-DC,Cristman,Adam,F,40000.0,40000.0
-SJ,Cronin,Sam,M,57500.0,105500.0
-HOU,Cruz,Danny,M,75000.0,118000.0
+Houston Dynamo,Ching,Brian,F,350000.0,350000.0
+New York Red Bulls,Chinn,Conor,F,40000.0,40000.0
+New York Red Bulls,Chirgadze,Giorgi,F,40000.0,40000.0
+Colorado Rapids,Clark,Colin,M,89250.0,94250.0
+Houston Dynamo,Cochrane,Ryan,D,100000.0,100000.0
+New England Revolution,Colaluca,Nico,M,100000.0,133000.0
+Chicago Fire,Conde,Wilman,D,180000.0,200000.0
+Sporting Kansas City,Conrad,Jimmy,D,232750.0,244000.0
+San Jose Earthquakes,Convey,Bobby,M,285000.0,307500.0
+Toronto FC,Conway,Jon,GK,60000.0,69833.33
+San Jose Earthquakes,Corrales,Ramiro,M,150000.0,160625.0
+Philadelphia Union,Coudet,Eduardo,M,180000.0,185000.0
+New York Red Bulls,Coundoul,Bouna,GK,155000.0,156250.0
+DC United,Cristman,Adam,F,40000.0,40000.0
+San Jose Earthquakes,Cronin,Sam,M,57500.0,105500.0
+Houston Dynamo,Cruz,Danny,M,75000.0,118000.0
 CHV,Cuesta,Yamin,D,42000.0,44500.0
-COL,Cummings,Omar,F,71500.0,80250.0
-DAL,Cunningham,Jeffrey,F,220000.0,230125.0
-NY,Da Luz,Austin,M,40000.0,52125.0
-SJ,Da Silva,Eduardo,F,48000.0,48000.0
-DAL,Davies,Kyle,D,57500.0,57500.0
-HOU,Davis,Brad,M,215000.04,258062.54
-TFC,de Guzman,Julian,M,1670796.0,1717546.0
-LA,DeLaGarza,AJ,D,45100.0,45100.0
+Colorado Rapids,Cummings,Omar,F,71500.0,80250.0
+FC Dallas,Cunningham,Jeffrey,F,220000.0,230125.0
+New York Red Bulls,Da Luz,Austin,M,40000.0,52125.0
+San Jose Earthquakes,Da Silva,Eduardo,F,48000.0,48000.0
+FC Dallas,Davies,Kyle,D,57500.0,57500.0
+Houston Dynamo,Davis,Brad,M,215000.04,258062.54
+Toronto FC,de Guzman,Julian,M,1670796.0,1717546.0
+LA Galaxy,DeLaGarza,AJ,D,45100.0,45100.0
 CHV,Delgado,Dario,D,42000.0,42000.0
-HOU,Deric,Tyler,GK,40000.0,40000.0
-TFC,DeRosario,Dwayne,M,375000.0,443750.0
-CHI,Dimitrov,Stefan,F,40000.0,40000.0
-KC,Diop,Ibrahim,M,57000.0,58250.0
-LA,Donovan,Landon,F,2050000.0,2127777.78
-LA,Dos Santos Cazumba,Alex,D,70000.0,80000.0
-NE,Dube,Mkhokheli,F,80000.0,89000.0
-CLB,Duka,Dilaver,M,80000.0,213000.0
-LA,Dunivant,Todd,D,120000.0,126750.0
-CHI,Dykstra,Andrew,GK,40000.0,40000.0
-COL,Earls,Danny,D-M,40000.0,41250.0
-DAL,Edward,Edson,D,40000.0,40000.0
-CLB,Ekpo,Emmanuel,M,155000.0,177250.0
-RSL,Espindola,Fabian,F,75000.0,75000.0
+Houston Dynamo,Deric,Tyler,GK,40000.0,40000.0
+Toronto FC,DeRosario,Dwayne,M,375000.0,443750.0
+Chicago Fire,Dimitrov,Stefan,F,40000.0,40000.0
+Sporting Kansas City,Diop,Ibrahim,M,57000.0,58250.0
+LA Galaxy,Donovan,Landon,F,2050000.0,2127777.78
+LA Galaxy,Dos Santos Cazumba,Alex,D,70000.0,80000.0
+New England Revolution,Dube,Mkhokheli,F,80000.0,89000.0
+Columbus Crew,Duka,Dilaver,M,80000.0,213000.0
+LA Galaxy,Dunivant,Todd,D,120000.0,126750.0
+Chicago Fire,Dykstra,Andrew,GK,40000.0,40000.0
+Colorado Rapids,Earls,Danny,D-M,40000.0,41250.0
+FC Dallas,Edward,Edson,D,40000.0,40000.0
+Columbus Crew,Ekpo,Emmanuel,M,155000.0,177250.0
+Real Salt Lake,Espindola,Fabian,F,75000.0,75000.0
 CHV,Espinoza,Rodolfo,M,216000.0,218500.0
-KC,Espinoza,Roger,M,75000.0,108750.0
-SEA,Estrada,David,F,40000.0,40000.0
-SEA,Evans,Brad,F,110000.0,123750.0
-SEA,Fernandez,Alvaro,M,300000.0,300000.0
-DAL,Ferreira,David,M-F,300000.0,300000.0
-RSL,Findley,Robert,F,73566.0,87316.0
+Sporting Kansas City,Espinoza,Roger,M,75000.0,108750.0
+Seattle Sounders FC,Estrada,David,F,40000.0,40000.0
+Seattle Sounders FC,Evans,Brad,F,110000.0,123750.0
+Seattle Sounders FC,Fernandez,Alvaro,M,300000.0,300000.0
+FC Dallas,Ferreira,David,M-F,300000.0,300000.0
+Real Salt Lake,Findley,Robert,F,73566.0,87316.0
 CHV,Flores,Jorge,F,40000.0,40000.0
-CLB,Francis,Shaun,D,40000.0,40000.0
-LA,Franklin,Sean,D,73535.0,87285.0
-TFC,Frei,Stefan,GK,80000.0,135000.0
-SEA,Fucito,Michael,MF,40000.0,40000.0
-TFC,Gala,Gabe,D-M,40000.0,40000.0
+Columbus Crew,Francis,Shaun,D,40000.0,40000.0
+LA Galaxy,Franklin,Sean,D,73535.0,87285.0
+Toronto FC,Frei,Stefan,GK,80000.0,135000.0
+Seattle Sounders FC,Fucito,Michael,MF,40000.0,40000.0
+Toronto FC,Gala,Gabe,D-M,40000.0,40000.0
 CHV,Galindo,Maykel,F,96498.0,96498.0
-NY,Garcia,Irving,M,40000.0,40000.0
-TFC,Garcia,Nick,D,190000.0,198750.0
-CLB,Garey,Jason,F,75000.0,76250.0
-TFC,Gargan,Daniel,M,40000.0,40000.0
-CLB,Gaven,Eddie,M-F,190575.0,190575.0
+New York Red Bulls,Garcia,Irving,M,40000.0,40000.0
+Toronto FC,Garcia,Nick,D,190000.0,198750.0
+Columbus Crew,Garey,Jason,F,75000.0,76250.0
+Toronto FC,Gargan,Daniel,M,40000.0,40000.0
+Columbus Crew,Gaven,Eddie,M-F,190575.0,190575.0
 CHV,Gavin,Blair,M,50000.0,69000.0
-NE,Gibbs,Cory,D,121000.0,128142.86
-RSL,Gil,Luis,M,85500.0,180583.33
-SJ,Gjertsen,Joey,M,65000.0,73625.0
-SJ,Glen,Cornell,F,85000.0,99875.0
+New England Revolution,Gibbs,Cory,D,121000.0,128142.86
+Real Salt Lake,Gil,Luis,M,85500.0,180583.33
+San Jose Earthquakes,Gjertsen,Joey,M,65000.0,73625.0
+San Jose Earthquakes,Glen,Cornell,F,85000.0,99875.0
 None,Goldthwaite,Kevin,D,120000.0,129000.0
-LA,Gomes,Juninho,M,70000.0,80000.0
-TFC,Gomez,Emmanuel,D,40000.0,45600.0
-DAL,Goncalves,Jackson,D,64620.0,75870.0
-LA,Gonzalez,Omar,D,80000.0,157000.0
-PHI,Gonzalez,Juan Diego,D,180000.0,184462.5
-RSL,Gonzalez,Nelson,M-F,40008.0,40008.0
-SEA,Gonzalez,Leonardo,D,72000.0,72000.0
+LA Galaxy,Gomes,Juninho,M,70000.0,80000.0
+Toronto FC,Gomez,Emmanuel,D,40000.0,45600.0
+FC Dallas,Goncalves,Jackson,D,64620.0,75870.0
+LA Galaxy,Gonzalez,Omar,D,80000.0,157000.0
+Philadelphia Union,Gonzalez,Juan Diego,D,180000.0,184462.5
+Real Salt Lake,Gonzalez,Nelson,M-F,40008.0,40008.0
+Seattle Sounders FC,Gonzalez,Leonardo,D,72000.0,72000.0
 CHV,Gordon,Alan,F,87731.0,87731.0
-RSL,Grabavoy,Ned,M,105000.0,105000.0
-SEA,Graham,Taylor,D,57750.0,57750.0
-DC,Graye,Jordan,D,40000.0,40000.0
-CLB,Griffit,Leandre,M,40008.0,40008.0
-NE,Griffiths,Jason,M,40000.0,40000.0
-CLB,Gruenebaum,Andy,GK,40000.0,40000.0
-DAL,Guarda,Bruno,M,75000.0,105000.0
+Real Salt Lake,Grabavoy,Ned,M,105000.0,105000.0
+Seattle Sounders FC,Graham,Taylor,D,57750.0,57750.0
+DC United,Graye,Jordan,D,40000.0,40000.0
+Columbus Crew,Griffit,Leandre,M,40008.0,40008.0
+New England Revolution,Griffiths,Jason,M,40000.0,40000.0
+Columbus Crew,Gruenebaum,Andy,GK,40000.0,40000.0
+FC Dallas,Guarda,Bruno,M,75000.0,105000.0
 Pool,Guppy,Kevin,GK,40000.0,40000.0
-HOU,Hainault,Andrew,D,110000.0,123125.0
-HOU,Hall,Tally,GK,60000.0,69375.0
-NY,Hall,Jeremy,M,75000.0,124000.0
-DC,Hamid,Bill,GK,40000.0,46666.66
-TFC,Harden,Ty,D,40000.0,40000.0
-KC,Harrington,Michael,M-D,78516.0,97266.0
-DAL,Harris,Atiba,M-F,68970.0,71970.0
-DAL,Hartman,Kevin,GK,75000.0,80000.0
-PHI,Harvey,Jordan,D,55000.0,56250.0
-CLB,Hejduk,Frankie,M,120000.0,127500.0
-NY,Henry,Thierry,F,5000000.04,5600000.04
-KC,Hercegfalvi,Zoltan,F,168000.0,168000.0
-DAL,Hernandez,Daniel,M-D,100000.0,112500.0
-DAL,Hernandez,Moises,D,31260.0,31260.0
-DC,Hernandez,Pablo,F,240000.0,249090.91
-SJ,Hernandez,Jason,D,125000.0,125000.0
-TFC,Herold,Zachary,D,60000.0,109166.67
-CLB,Hesmer,William,GK,125000.0,136000.0
-KC,Hohlbein,Aaron,D,40000.0,40000.0
-COL,Holody,Mike,D,40000.0,40000.0
-RSL,Horst,David,D,40000.0,40000.0
+Houston Dynamo,Hainault,Andrew,D,110000.0,123125.0
+Houston Dynamo,Hall,Tally,GK,60000.0,69375.0
+New York Red Bulls,Hall,Jeremy,M,75000.0,124000.0
+DC United,Hamid,Bill,GK,40000.0,46666.66
+Toronto FC,Harden,Ty,D,40000.0,40000.0
+Sporting Kansas City,Harrington,Michael,M-D,78516.0,97266.0
+FC Dallas,Harris,Atiba,M-F,68970.0,71970.0
+FC Dallas,Hartman,Kevin,GK,75000.0,80000.0
+Philadelphia Union,Harvey,Jordan,D,55000.0,56250.0
+Columbus Crew,Hejduk,Frankie,M,120000.0,127500.0
+New York Red Bulls,Henry,Thierry,F,5000000.04,5600000.04
+Sporting Kansas City,Hercegfalvi,Zoltan,F,168000.0,168000.0
+FC Dallas,Hernandez,Daniel,M-D,100000.0,112500.0
+FC Dallas,Hernandez,Moises,D,31260.0,31260.0
+DC United,Hernandez,Pablo,F,240000.0,249090.91
+San Jose Earthquakes,Hernandez,Jason,D,125000.0,125000.0
+Toronto FC,Herold,Zachary,D,60000.0,109166.67
+Columbus Crew,Hesmer,William,GK,125000.0,136000.0
+Sporting Kansas City,Hohlbein,Aaron,D,40000.0,40000.0
+Colorado Rapids,Holody,Mike,D,40000.0,40000.0
+Real Salt Lake,Horst,David,D,40000.0,40000.0
 Pool,Horwath,Alex,GK,40000.0,40000.0
-TFC,Hscanovics,Raivis,D,114000.0,120250.0
-SEA,Hurtado,John Kennedy,D,120000.0,121000.0
-CHI,Husidic,Baggio,M,75000.0,117000.0
-SEA,Ianni,Patrick,D,75600.0,75600.0
-TFC,Ibrahim,Fuad,F,100000.0,133000.0
-DAL,Ihemelu,Ugo,D,150000.0,150000.0
-CLB,Iro,Andy,D,52360.0,71110.0
-PHI,Jacobson,Andrew,M,40000.0,40000.0
-DC,Jakovic,Dejan,D,147600.0,167102.5
-DC,James,Julius,D,52085.0,61460.0
-NE,Jankauskas,Edgaras,F,240000.0,240000.0
-SEA,Jaqua,Nate,F,150000.0,157000.0
-SJ,Jassey,Omar,M,42000.0,47500.0
+Toronto FC,Hscanovics,Raivis,D,114000.0,120250.0
+Seattle Sounders FC,Hurtado,John Kennedy,D,120000.0,121000.0
+Chicago Fire,Husidic,Baggio,M,75000.0,117000.0
+Seattle Sounders FC,Ianni,Patrick,D,75600.0,75600.0
+Toronto FC,Ibrahim,Fuad,F,100000.0,133000.0
+FC Dallas,Ihemelu,Ugo,D,150000.0,150000.0
+Columbus Crew,Iro,Andy,D,52360.0,71110.0
+Philadelphia Union,Jacobson,Andrew,M,40000.0,40000.0
+DC United,Jakovic,Dejan,D,147600.0,167102.5
+DC United,James,Julius,D,52085.0,61460.0
+New England Revolution,Jankauskas,Edgaras,F,240000.0,240000.0
+Seattle Sounders FC,Jaqua,Nate,F,150000.0,157000.0
+San Jose Earthquakes,Jassey,Omar,M,42000.0,47500.0
 CHV,Jazic,Ante,D,105000.0,113500.0
-KC,Jewsbury,Jack,D,145000.0,154125.0
-CHI,John,Collins,F,160000.0,181875.0
-DAL,John,George,D,40000.0,40000.0
-CHI,Johnson,Sean,GK,55000.0,88000.0
-RSL,Johnson,Will,F,76320.0,89891.43
-SJ,Johnson,Ryan,M,125000.0,125000.0
-LA,Jordan,Bryan,F,40000.0,40000.0
-NE,Joseph,Shalrie,M,450000.0,475000.0
-TFC,Joseph,Nane,M,40000.0,40000.0
-COL,Joyce,Ian,GK,54000.0,54000.0
-KC,Kamara,Kei,F,180000.0,182500.0
-NY,Kandji,Macoumba,F,85000.0,112988.37
-SEA,Keller,Kasey,GK,300000.0,300000.0
+Sporting Kansas City,Jewsbury,Jack,D,145000.0,154125.0
+Chicago Fire,John,Collins,F,160000.0,181875.0
+FC Dallas,John,George,D,40000.0,40000.0
+Chicago Fire,Johnson,Sean,GK,55000.0,88000.0
+Real Salt Lake,Johnson,Will,F,76320.0,89891.43
+San Jose Earthquakes,Johnson,Ryan,M,125000.0,125000.0
+LA Galaxy,Jordan,Bryan,F,40000.0,40000.0
+New England Revolution,Joseph,Shalrie,M,450000.0,475000.0
+Toronto FC,Joseph,Nane,M,40000.0,40000.0
+Colorado Rapids,Joyce,Ian,GK,54000.0,54000.0
+Sporting Kansas City,Kamara,Kei,F,180000.0,182500.0
+New York Red Bulls,Kandji,Macoumba,F,85000.0,112988.37
+Seattle Sounders FC,Keller,Kasey,GK,300000.0,300000.0
 CHV,Kennedy,Dan,GK,54996.0,54996.0
-COL,Kimura,Kosuke,D,57750.0,57750.0
-DC,King,Stephen,M,40000.0,40000.0
-CHI,Kinney,Steven,D,40000.0,40000.0
-LA,Kirovski,Jovan,F,84000.0,84000.0
-LA,Klein,Chris,M,96000.0,101000.0
-PHI,Knighton,Brad,GK,40000.0,40000.0
-TFC,Kocic,Milos,GK,40000.0,40000.0
-KC,Kounenakis,Nick,D,60000.0,70000.0
-LA,Kovalenko,Dema,M,136500.0,144118.75
-CHI,Krol,Krzystof,D,100000.0,100000.0
-KC,Kronberg,Eric,GK,56000.0,56000.0
-COL,LaBauex,Ross,M,40000.0,40000.0
-TFC,LaBrocca,Nick,M,77000.0,79500.0
+Colorado Rapids,Kimura,Kosuke,D,57750.0,57750.0
+DC United,King,Stephen,M,40000.0,40000.0
+Chicago Fire,Kinney,Steven,D,40000.0,40000.0
+LA Galaxy,Kirovski,Jovan,F,84000.0,84000.0
+LA Galaxy,Klein,Chris,M,96000.0,101000.0
+Philadelphia Union,Knighton,Brad,GK,40000.0,40000.0
+Toronto FC,Kocic,Milos,GK,40000.0,40000.0
+Sporting Kansas City,Kounenakis,Nick,D,60000.0,70000.0
+LA Galaxy,Kovalenko,Dema,M,136500.0,144118.75
+Chicago Fire,Krol,Krzystof,D,100000.0,100000.0
+Sporting Kansas City,Kronberg,Eric,GK,56000.0,56000.0
+Colorado Rapids,LaBauex,Ross,M,40000.0,40000.0
+Toronto FC,LaBrocca,Nick,M,77000.0,79500.0
 CHV,Lahoud,Michael,M,45100.0,54475.0
-DAL,Lambo,Josh,GK,75000.0,108000.0
-COL,Larentowicz,Jeff,D,150000.0,150000.0
-PHI,Le Toux,Sebastian,M,110000.0,122000.0
-KC,Leathers,Jonathan,D,40000.0,40000.0
-SJ,Leitch,Chris,D,101000.0,101000.0
-CLB,Lenhart,Steven,F,40000.0,42333.34
-SEA,Levesque,Roger,F,40000.08,40000.08
-LA,Lewis,Eddie,M,96000.0,99333.33
-DAL,Leyva,Bryan,M,45000.0,60833.33
+FC Dallas,Lambo,Josh,GK,75000.0,108000.0
+Colorado Rapids,Larentowicz,Jeff,D,150000.0,150000.0
+Philadelphia Union,Le Toux,Sebastian,M,110000.0,122000.0
+Sporting Kansas City,Leathers,Jonathan,D,40000.0,40000.0
+San Jose Earthquakes,Leitch,Chris,D,101000.0,101000.0
+Columbus Crew,Lenhart,Steven,F,40000.0,42333.34
+Seattle Sounders FC,Levesque,Roger,F,40000.08,40000.08
+LA Galaxy,Lewis,Eddie,M,96000.0,99333.33
+FC Dallas,Leyva,Bryan,M,45000.0,60833.33
 CHV,Lillingston,Eduardo,F,100000.0,100000.0
-NE,Linck,Roberto,F-M,40000.08,40000.08
-NY,Lindpere,Joel,M,80000.0,115000.0
-CHI,Ljungberg,Fredrik,M,1300000.0,1314000.0
-COL,Lopez,Claudio,F,120000.0,120000.0
-CHI,Lowry,Peter,F-M,40000.0,40000.0
-DAL,Loyd,Zach,M,40000.0,57125.0
-SJ,Luiz Moreira,Andre,M,60000.0,60000.0
-DAL,Luna,Ruben,F,45000.0,47000.0
-LA,Magee,Mike,F,93500.0,96000.0
+New England Revolution,Linck,Roberto,F-M,40000.08,40000.08
+New York Red Bulls,Lindpere,Joel,M,80000.0,115000.0
+Chicago Fire,Ljungberg,Fredrik,M,1300000.0,1314000.0
+Colorado Rapids,Lopez,Claudio,F,120000.0,120000.0
+Chicago Fire,Lowry,Peter,F-M,40000.0,40000.0
+FC Dallas,Loyd,Zach,M,40000.0,57125.0
+San Jose Earthquakes,Luiz Moreira,Andre,M,60000.0,60000.0
+FC Dallas,Luna,Ruben,F,45000.0,47000.0
+LA Galaxy,Magee,Mike,F,93500.0,96000.0
 CHV,Maldonado,Giancarlo,F,204000.0,204000.0
-NE,Mansally,Kenny,F-M,65000.0,72500.0
-PHI,Mapp,Justin,M,162000.0,170333.33
-DAL,Marosevic,Peri,F,75000.0,124000.0
-NY,Marquez,Rafael,D,5544000.0,5544000.0
-CLB,Marshall,Chad,D,250000.0,320000.0
-LA,Marshall,Yohance,D,40000.0,40000.0
-SEA,Marshall,Tyrone,D,165375.0,169125.0
-TFC,Martinez,"Miguel ""Mista""",F,968736.0,987337.5
-COL,Mastroeni,Pablo,M-D,255000.0,300500.0
+New England Revolution,Mansally,Kenny,F-M,65000.0,72500.0
+Philadelphia Union,Mapp,Justin,M,162000.0,170333.33
+FC Dallas,Marosevic,Peri,F,75000.0,124000.0
+New York Red Bulls,Marquez,Rafael,D,5544000.0,5544000.0
+Columbus Crew,Marshall,Chad,D,250000.0,320000.0
+LA Galaxy,Marshall,Yohance,D,40000.0,40000.0
+Seattle Sounders FC,Marshall,Tyrone,D,165375.0,169125.0
+Toronto FC,Martinez,"Miguel ""Mista""",F,968736.0,987337.5
+Colorado Rapids,Mastroeni,Pablo,M-D,255000.0,300500.0
 CHV,Mayen,Gerson,M,40000.0,40000.0
-CHI,McBride,Brian,F,378000.0,403333.33
-DAL,McCarty,Dax,M,145000.0,165000.0
-SJ,McDonald,Brandon,M,40000.0,40000.0
-PHI,McInerney,Jack,F,52250.0,116416.67
-RSL,McKenzie,Rauwshan,D,40000.0,40000.0
-DC,McTavish,Devon,D-M,70000.0,72500.0
-RSL,Melia,Tim,GK,40000.0,40000.0
-NY,Mendes,Carlos,D,89250.0,92375.0
-CLB,Mendoza,Andres,F,216000.0,240833.33
-PHI,Miglioranzi,Stefani,M,125000.0,148125.0
-NY,Miller,Roy,M,99996.0,99996.0
-CLB,Moffat,Adam,M,50400.0,50400.0
-SEA,Montano,Miguel,F,40008.0,40008.0
-SEA,Montero,Fredy,F,180000.0,180000.0
-COL,Moor,Drew,D,145200.0,162388.89
-RSL,Morales,Javier,M,200000.0,252500.0
-DC,Moreno,Jaime,F,160000.0,185000.0
-PHI,Moreno,Alejandro,F,145000.0,158125.0
-SJ,Morrow,Justin,D,40000.0,40000.0
-DC,Morsink,Kurt,M,40000.0,40000.0
-HOU,Mullan,Brian,M,180500.0,189812.5
-HOU,Mulrooney,Richard,M,120000.0,125000.0
-NE,Murray,Tim,GK,40000.0,40000.0
-PHI,Mwanga,Danny,F,100000.0,206250.0
-KC,Myers,Chance,D-M,70000.0,142000.0
+Chicago Fire,McBride,Brian,F,378000.0,403333.33
+FC Dallas,McCarty,Dax,M,145000.0,165000.0
+San Jose Earthquakes,McDonald,Brandon,M,40000.0,40000.0
+Philadelphia Union,McInerney,Jack,F,52250.0,116416.67
+Real Salt Lake,McKenzie,Rauwshan,D,40000.0,40000.0
+DC United,McTavish,Devon,D-M,70000.0,72500.0
+Real Salt Lake,Melia,Tim,GK,40000.0,40000.0
+New York Red Bulls,Mendes,Carlos,D,89250.0,92375.0
+Columbus Crew,Mendoza,Andres,F,216000.0,240833.33
+Philadelphia Union,Miglioranzi,Stefani,M,125000.0,148125.0
+New York Red Bulls,Miller,Roy,M,99996.0,99996.0
+Columbus Crew,Moffat,Adam,M,50400.0,50400.0
+Seattle Sounders FC,Montano,Miguel,F,40008.0,40008.0
+Seattle Sounders FC,Montero,Fredy,F,180000.0,180000.0
+Colorado Rapids,Moor,Drew,D,145200.0,162388.89
+Real Salt Lake,Morales,Javier,M,200000.0,252500.0
+DC United,Moreno,Jaime,F,160000.0,185000.0
+Philadelphia Union,Moreno,Alejandro,F,145000.0,158125.0
+San Jose Earthquakes,Morrow,Justin,D,40000.0,40000.0
+DC United,Morsink,Kurt,M,40000.0,40000.0
+Houston Dynamo,Mullan,Brian,M,180500.0,189812.5
+Houston Dynamo,Mulrooney,Richard,M,120000.0,125000.0
+New England Revolution,Murray,Tim,GK,40000.0,40000.0
+Philadelphia Union,Mwanga,Danny,F,100000.0,206250.0
+Sporting Kansas City,Myers,Chance,D-M,70000.0,142000.0
 CHV,Nagamura,Paulo,M,192000.0,197500.0
-DC,Najar,Andy,M-F,39000.0,58995.83
-PHI,Nakazawa,Kyle,M,40000.0,40000.0
-HOU,Navas,Francisco,M,40000.0,40000.0
-HOU,Ngwenya,Joseph,M/F,72000.0,72000.0
-KC,Nielsen,Jimmy,GK,100000.0,141666.67
-NY,Nielsen,Brian,M,156000.0,156000.0
-RSL,Nimo,Alex,F-M,75000.0,108000.0
-SEA,Nkufo,Blaise,F,480000.0,480000.0
-SEA,Noonan,Pat,F,96000.0,96000.0
-PHI,Noone,JT,M,40012.08,40012.08
-CHI,Nyarko,Patrick,F,80000.0,160000.0
-NE,Nyassi,Sainey,M,70000.0,76750.0
-SEA,Nyassi,Sanna,M,40000.0,40000.0
-HOU,Obodai,Anthony,M,96000.0,112666.67
-COL,O'Brien,Ciaran,M,75000.0,108750.0
-HOU,Oduro,Dominic,F,40000.0,40000.0
-PHI,Okugo,Amobi,M,75000.0,158000.0
-RSL,Olave,Jamison,D,225000.0,240000.0
-HOU,Onstad,Patrick,GK,164000.0,172333.33
-SJ,Opara,Ike,D,80000.0,165900.0
-CLB,O'Rourke,Danny,D,110000.0,122500.0
-PHI,Orozco,Michael,D,150000.0,200000.0
-NE,Osei,Emmanuel,D,47250.0,52875.0
-CLB,Oughton,Duncan,D,40000.0,40000.0
+DC United,Najar,Andy,M-F,39000.0,58995.83
+Philadelphia Union,Nakazawa,Kyle,M,40000.0,40000.0
+Houston Dynamo,Navas,Francisco,M,40000.0,40000.0
+Houston Dynamo,Ngwenya,Joseph,M/F,72000.0,72000.0
+Sporting Kansas City,Nielsen,Jimmy,GK,100000.0,141666.67
+New York Red Bulls,Nielsen,Brian,M,156000.0,156000.0
+Real Salt Lake,Nimo,Alex,F-M,75000.0,108000.0
+Seattle Sounders FC,Nkufo,Blaise,F,480000.0,480000.0
+Seattle Sounders FC,Noonan,Pat,F,96000.0,96000.0
+Philadelphia Union,Noone,JT,M,40012.08,40012.08
+Chicago Fire,Nyarko,Patrick,F,80000.0,160000.0
+New England Revolution,Nyassi,Sainey,M,70000.0,76750.0
+Seattle Sounders FC,Nyassi,Sanna,M,40000.0,40000.0
+Houston Dynamo,Obodai,Anthony,M,96000.0,112666.67
+Colorado Rapids,O'Brien,Ciaran,M,75000.0,108750.0
+Houston Dynamo,Oduro,Dominic,F,40000.0,40000.0
+Philadelphia Union,Okugo,Amobi,M,75000.0,158000.0
+Real Salt Lake,Olave,Jamison,D,225000.0,240000.0
+Houston Dynamo,Onstad,Patrick,GK,164000.0,172333.33
+San Jose Earthquakes,Opara,Ike,D,80000.0,165900.0
+Columbus Crew,O'Rourke,Danny,D,110000.0,122500.0
+Philadelphia Union,Orozco,Michael,D,150000.0,200000.0
+New England Revolution,Osei,Emmanuel,D,47250.0,52875.0
+Columbus Crew,Oughton,Duncan,D,40000.0,40000.0
 CHV,Padilla,Jesus Andres,F,48000.0,48000.0
-CLB,Padula,Gino,D,165000.0,190000.0
-COL,Palguta,Scott,D,57750.0,57750.0
-HOU,Palmer,Lovel,M,60000.0,71250.0
-CHI,Pappa,Marco,M,108000.0,108000.0
-SEA,Parke,Jeff,D,99999.96,99999.96
-CHI,Pause,Logan,M,160000.0,168125.0
-DAL,Pearce,Heath,D,198000.0,207500.0
-DC,Pena,Juan,D,40000.0,40000.0
-LA,Perk,Brian,GK,52250.0,86350.0
-DC,Perkins,Troy,GK,200000.0,205000.0
-NE,Perovic,Marko,M,180000.0,190000.0
-TFC,Peterson,Jacob,F,125000.0,143000.0
-NY,Petke,Mike,D,95000.0,95000.0
-NE,Phelan,Pat,M,40000.0,40000.0
-COL,Pickens,Matt,GK,135000.0,137500.0
-DC,Pontius,Chris,M-F,100000.0,100000.0
-DC,Quaranta,Santino,M-F,105000.0,107500.0
-DC,Quinn,Andrew,GK,40008.0,40008.0
-NY,Ream,Tim,D,40000.0,40000.0
-NE,Reis,Matt,GK,182011.0,182011.0
-CLB,Renteria,Emilio,F,108000.0,109875.0
-RSL,Reynish,Kyle,GK,40000.0,40000.0
-LA,Ribeiro Da Silva,Leonardo,D,70000.0,80000.0
-DC,Rice,Barry,D,40000.0,40000.0
-NY,Richards,Dane,M-F,135000.0,146500.0
-LA,Ricketts,Donovan,GK,160000.0,160000.0
-SEA,Riley,James,D,72450.0,76075.0
-RSL,Rimando,Nick,GK,120000.0,131000.0
-SJ,Ring,Brad,M,40000.0,40000.0
-CHI,Robinson,Dasan,D,49200.0,49200.0
-HOU,Robinson,Eddie,D,135000.0,145000.0
-NY,Robinson,Carl,M,300000.0,315000.0
-KC,Rocastle,Craig,M,96000.0,102062.5
-DAL,Rodriguez,Milton,F,84000.0,114000.0
-CLB,Rogers,Robbie,M-F,115000.0,115000.0
+Columbus Crew,Padula,Gino,D,165000.0,190000.0
+Colorado Rapids,Palguta,Scott,D,57750.0,57750.0
+Houston Dynamo,Palmer,Lovel,M,60000.0,71250.0
+Chicago Fire,Pappa,Marco,M,108000.0,108000.0
+Seattle Sounders FC,Parke,Jeff,D,99999.96,99999.96
+Chicago Fire,Pause,Logan,M,160000.0,168125.0
+FC Dallas,Pearce,Heath,D,198000.0,207500.0
+DC United,Pena,Juan,D,40000.0,40000.0
+LA Galaxy,Perk,Brian,GK,52250.0,86350.0
+DC United,Perkins,Troy,GK,200000.0,205000.0
+New England Revolution,Perovic,Marko,M,180000.0,190000.0
+Toronto FC,Peterson,Jacob,F,125000.0,143000.0
+New York Red Bulls,Petke,Mike,D,95000.0,95000.0
+New England Revolution,Phelan,Pat,M,40000.0,40000.0
+Colorado Rapids,Pickens,Matt,GK,135000.0,137500.0
+DC United,Pontius,Chris,M-F,100000.0,100000.0
+DC United,Quaranta,Santino,M-F,105000.0,107500.0
+DC United,Quinn,Andrew,GK,40008.0,40008.0
+New York Red Bulls,Ream,Tim,D,40000.0,40000.0
+New England Revolution,Reis,Matt,GK,182011.0,182011.0
+Columbus Crew,Renteria,Emilio,F,108000.0,109875.0
+Real Salt Lake,Reynish,Kyle,GK,40000.0,40000.0
+LA Galaxy,Ribeiro Da Silva,Leonardo,D,70000.0,80000.0
+DC United,Rice,Barry,D,40000.0,40000.0
+New York Red Bulls,Richards,Dane,M-F,135000.0,146500.0
+LA Galaxy,Ricketts,Donovan,GK,160000.0,160000.0
+Seattle Sounders FC,Riley,James,D,72450.0,76075.0
+Real Salt Lake,Rimando,Nick,GK,120000.0,131000.0
+San Jose Earthquakes,Ring,Brad,M,40000.0,40000.0
+Chicago Fire,Robinson,Dasan,D,49200.0,49200.0
+Houston Dynamo,Robinson,Eddie,D,135000.0,145000.0
+New York Red Bulls,Robinson,Carl,M,300000.0,315000.0
+Sporting Kansas City,Rocastle,Craig,M,96000.0,102062.5
+FC Dallas,Rodriguez,Milton,F,84000.0,114000.0
+Columbus Crew,Rogers,Robbie,M-F,115000.0,115000.0
 CHV,Romero,Osael,M,80000.0,85500.0
-RSL,Russell,Robbie,D-M,114000.0,119751.43
-RSL,Saborio,Alvaro,F,120000.0,128125.0
-DAL,Sala,Dario,GK,160000.0,178125.0
-PHI,Salinas,Shea,M,40000.0,40000.0
-NY,Salou,Ibrahim,F,264000.0,264000.0
-TFC,Santos,Maicon,F,93000.0,93000.0
-TFC,Sanyang,Amadou,D,40000.0,46555.55
+Real Salt Lake,Russell,Robbie,D-M,114000.0,119751.43
+Real Salt Lake,Saborio,Alvaro,F,120000.0,128125.0
+FC Dallas,Sala,Dario,GK,160000.0,178125.0
+Philadelphia Union,Salinas,Shea,M,40000.0,40000.0
+New York Red Bulls,Salou,Ibrahim,F,264000.0,264000.0
+Toronto FC,Santos,Maicon,F,93000.0,93000.0
+Toronto FC,Sanyang,Amadou,D,40000.0,46555.55
 CHV,Saragosa,Marcelo,D-M,130000.0,134285.71
-TFC,Saric,Martin,M,90000.0,90000.0
-NY,Sassano,Luke,M-D,40000.0,40000.0
-LA,Saunders,Josh,GK,57475.0,60608.75
-NE,Schilawski,Zack,F,40000.0,42500.0
-RSL,Schuler,Chris,D,40000.0,40000.0
-COL,Schunk,Ross,F,40000.0,40000.0
-SEA,Scott,Zach,D,42008.0,42008.0
-SJ,Sealy,Scott,F,138000.0,145000.0
-SEA,Seamon,Michael,M,40000.0,40000.0
-CHI,Segares,Gonzalo,D,60000.0,67750.0
-PHI,Seitz,Chris,GK,100000.0,135500.0
-HOU,Serioux,Adrian,D,96000.0,96000.0
-LA,Sesay,Israel,F,75000.0,107083.33
-DC,Shanosky,Conor,D,31250.04,37135.54
+Toronto FC,Saric,Martin,M,90000.0,90000.0
+New York Red Bulls,Sassano,Luke,M-D,40000.0,40000.0
+LA Galaxy,Saunders,Josh,GK,57475.0,60608.75
+New England Revolution,Schilawski,Zack,F,40000.0,42500.0
+Real Salt Lake,Schuler,Chris,D,40000.0,40000.0
+Colorado Rapids,Schunk,Ross,F,40000.0,40000.0
+Seattle Sounders FC,Scott,Zach,D,42008.0,42008.0
+San Jose Earthquakes,Sealy,Scott,F,138000.0,145000.0
+Seattle Sounders FC,Seamon,Michael,M,40000.0,40000.0
+Chicago Fire,Segares,Gonzalo,D,60000.0,67750.0
+Philadelphia Union,Seitz,Chris,GK,100000.0,135500.0
+Houston Dynamo,Serioux,Adrian,D,96000.0,96000.0
+LA Galaxy,Sesay,Israel,F,75000.0,107083.33
+DC United,Shanosky,Conor,D,31250.04,37135.54
 Pool,Sharpe,Christopher,GK,40000.0,40000.0
-DAL,Shea,Brek,M-D,75000.0,108000.0
-NE,Shuttleworth,Robert,GK,40000.0,40000.0
-DC,Simms,Clyde,M,165000.0,171000.0
-NE,Sinovic,Seth,D,40000.0,40000.0
-COL,Smith,Jamie,M,172800.0,182800.0
-KC,Smith,Ryan,M-F,125000.0,129375.0
-NE,Smith,Khano,M-F,50004.0,50004.0
-PHI,Stahl,Toni,M,40000.0,110300.0
-NY,Stammler,Seth,M,123900.0,123900.0
-LA,Stephens,Michael,M,40000.0,42500.0
-SJ,Stephenson,Khari,M,151500.0,167333.33
-NE,Stolica,Ilija,F,216000.0,221500.0
-SEA,Sturgis,Nathan,D-M,65000.0,69250.0
-NY,Sutton,Greg,GK,72000.0,76500.0
-DC,Talley,Carey,D,99996.0,99996.0
-NY,Tchani,Tony,M,75000.0,179000.0
-KC,Thomas,Shavar,D,145000.0,159375.0
-COL,Thompson,Wells,M,40000.0,48125.0
+FC Dallas,Shea,Brek,M-D,75000.0,108000.0
+New England Revolution,Shuttleworth,Robert,GK,40000.0,40000.0
+DC United,Simms,Clyde,M,165000.0,171000.0
+New England Revolution,Sinovic,Seth,D,40000.0,40000.0
+Colorado Rapids,Smith,Jamie,M,172800.0,182800.0
+Sporting Kansas City,Smith,Ryan,M-F,125000.0,129375.0
+New England Revolution,Smith,Khano,M-F,50004.0,50004.0
+Philadelphia Union,Stahl,Toni,M,40000.0,110300.0
+New York Red Bulls,Stammler,Seth,M,123900.0,123900.0
+LA Galaxy,Stephens,Michael,M,40000.0,42500.0
+San Jose Earthquakes,Stephenson,Khari,M,151500.0,167333.33
+New England Revolution,Stolica,Ilija,F,216000.0,221500.0
+Seattle Sounders FC,Sturgis,Nathan,D-M,65000.0,69250.0
+New York Red Bulls,Sutton,Greg,GK,72000.0,76500.0
+DC United,Talley,Carey,D,99996.0,99996.0
+New York Red Bulls,Tchani,Tony,M,75000.0,179000.0
+Sporting Kansas City,Thomas,Shavar,D,145000.0,159375.0
+Colorado Rapids,Thompson,Wells,M,40000.0,48125.0
 CHV,Thornton,Zach,GK,145000.0,152500.0
-CHI,Thorrington,John,M,177000.0,189500.0
-NE,Tierney,Chris,D-M,40000.0,40000.0
-PHI,Torres,Roger,M,96000.0,99125.0
+Chicago Fire,Thorrington,John,M,177000.0,189500.0
+New England Revolution,Tierney,Chris,D-M,40000.0,40000.0
+Philadelphia Union,Torres,Roger,M,96000.0,99125.0
 CHV,Trujillo,Mariano,M,94500.0,94500.0
-NE,Twellman,Taylor,F,434500.0,459500.0
-NY,Ubiparipovic,Sinisa,M,40000.0,40000.0
-DAL,Ulloa,Victor,M,31260.0,31260.0
+New England Revolution,Twellman,Taylor,F,434500.0,459500.0
+New York Red Bulls,Ubiparipovic,Sinisa,M,40000.0,40000.0
+FC Dallas,Ulloa,Victor,M,31260.0,31260.0
 CHV,Umana,Michael,D,132000.0,144312.5
-CHI,Umanzor,Deris,D,72000.0,72000.0
-TFC,Usanov,Maxim,D,96000.0,102250.0
-SEA,Vagenas,Peter,M,117000.0,117000.0
-SEA,Wahl,Tyson,D,49400.0,52300.0
+Chicago Fire,Umanzor,Deris,D,72000.0,72000.0
+Toronto FC,Usanov,Maxim,D,96000.0,102250.0
+Seattle Sounders FC,Vagenas,Peter,M,117000.0,117000.0
+Seattle Sounders FC,Wahl,Tyson,D,49400.0,52300.0
 None,Waibel,Craig,D,84710.0,84710.0
-COL,Wallace,Anthony,D-M,57500.0,57500.0
-DC,Wallace,Rodney,M-D,75000.0,124000.0
-SJ,Ward,Tim,D,55000.0,55000.0
-RSL,Warner,Collen,MF,40000.0,43750.0
-CHI,Watson-Siriboe,Kwame,D,40000.0,40000.0
-HOU,Weaver,Cam,F,85000.0,93250.0
-TFC,White,O'Brian,F,105000.0,182000.0
-DAL,Wiedeman,Andrew,F,65000.0,108000.0
-RSL,Williams,Andy,M,88200.0,88200.0
-RSL,Wingert,Chris,D,125000.0,125000.0
-KC,Wolff,Josh,F,220004.0,220004.0
+Colorado Rapids,Wallace,Anthony,D-M,57500.0,57500.0
+DC United,Wallace,Rodney,M-D,75000.0,124000.0
+San Jose Earthquakes,Ward,Tim,D,55000.0,55000.0
+Real Salt Lake,Warner,Collen,MF,40000.0,43750.0
+Chicago Fire,Watson-Siriboe,Kwame,D,40000.0,40000.0
+Houston Dynamo,Weaver,Cam,F,85000.0,93250.0
+Toronto FC,White,O'Brian,F,105000.0,182000.0
+FC Dallas,Wiedeman,Andrew,F,65000.0,108000.0
+Real Salt Lake,Williams,Andy,M,88200.0,88200.0
+Real Salt Lake,Wingert,Chris,D,125000.0,125000.0
+Sporting Kansas City,Wolff,Josh,F,220004.0,220004.0
 None,Wolyniec,John,F,88000.0,88000.0
-SJ,Wondolowski,Chris,M,48000.0,48000.0
-COL,Wynne,Marvell,D,66500.0,171750.0
-DAL,Yeisley,Jason,F,40000.0,40000.0
-SEA,Zakuani,Steve,F,80000.0,178000.0
+San Jose Earthquakes,Wondolowski,Chris,M,48000.0,48000.0
+Colorado Rapids,Wynne,Marvell,D,66500.0,171750.0
+FC Dallas,Yeisley,Jason,F,40000.0,40000.0
+Seattle Sounders FC,Zakuani,Steve,F,80000.0,178000.0
 CHV,Zamora,Cesar,M,40000.0,40000.0
-DC,Zayner,Jed,D,57000.0,60875.0
+DC United,Zayner,Jed,D,57000.0,60875.0
 CHV,Zemanski,Ben,M,40000.0,40000.0
-PHI,Zimmerman,Nick,D,40000.0,40000.0
+Philadelphia Union,Zimmerman,Nick,D,40000.0,40000.0
 CHV,Zizzo,Sal,F,60000.0,68250.0
 CHV,Zotinca,Alex,D,60000.0,60000.0
-KC,Zusi,Graham,F-M,40000.0,40000.0
+Sporting Kansas City,Zusi,Graham,F-M,40000.0,40000.0
